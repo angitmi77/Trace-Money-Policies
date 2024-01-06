@@ -15,7 +15,7 @@ streamlit.set_page_config(
 # ------------ App -----------------
 # Navigation menu
 with streamlit.sidebar:
-    streamlit.success(f"* Politiques de Trace Money")
+    streamlit.success(f"* Hi✌️")
 
     choice = streamlit_option_menu.option_menu(
         menu_title="Menu",
