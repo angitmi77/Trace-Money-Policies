@@ -6,6 +6,6 @@ def cookies_policy_function():
         streamlit.subheader("Politique des cookies de Trace Money")
         streamlit.write("---")
         streamlit.write("##")
-        streamlit.error("Politique sur les cookies non réquises pour une application !")
+        streamlit.write("[Continuer](https://www.iubenda.com/privacy-policy/51742190/cookie-policy)"]
 
 
